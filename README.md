@@ -1,4 +1,12 @@
-## Hi there 👋
+# About Me
+
+```python
+def main():
+    _name = "Your Name"
+    _job = "ML Research"
+    _university = "University of Warwick"
+    _location = "Coventry, UK"
+```
 
 <!--
 **pelagecha/pelagecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
