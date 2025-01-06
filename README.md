@@ -2,7 +2,7 @@
 
 ```python
 def main():
-    _name = "Your Name"
+    _name = "Nikita Pelagecha"
     _job = "ML Research"
     _university = "University of Warwick"
     _location = "Coventry, UK"
